@@ -23,3 +23,9 @@ package-lock.json
 !.vscode/tasks.json
 
 # Misc
+
+# Build script
+build.sh
+
+# Nginx configuaration
+blog.conf
